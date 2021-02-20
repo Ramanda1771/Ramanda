@@ -1,0 +1,2 @@
+# Ramanda
+UAS SISTEM OPERASI
